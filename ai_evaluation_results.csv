@@ -1,0 +1,31 @@
+complaint,expected_type,predicted_type,predicted_department,correct
+There is a huge pothole outside my house.,Request for Pothole Repair,Request for Pothole Repair,Public Works,True
+Cars keep hitting a deep hole in the road.,Request for Pothole Repair,Request for Pothole Repair,Public Works,True
+The streetlight outside my apartment is not working.,Street Light Outages,Street Light Outages,Public Works,True
+Our street has been dark because the lights are out.,Street Light Outages,Street Light Outages,Public Works,True
+There are rats running around our building.,Rodent Activity,Rodent Activity,Inspectional Services,True
+I keep seeing rodents near the garbage bins.,Rodent Activity,Rodent Activity,Inspectional Services,True
+A rat bit someone in our building.,Rat Bite,Rat Bite,Inspectional Services,True
+I was bitten by a rat near my apartment.,Rat Bite,Rat Bite,Inspectional Services,True
+A large tree is about to fall onto the road.,Tree Emergencies,Tree Emergencies,Parks and Recreation,True
+A broken tree limb is hanging dangerously above the sidewalk.,Tree Emergencies,Tree Emergencies,Parks and Recreation,True
+The trees along our street need pruning.,Tree Maintenance Requests,Tree Maintenance Requests,Parks and Recreation,True
+Several tree branches need trimming.,Tree Maintenance Requests,Tree Maintenance Requests,Parks and Recreation,True
+A car has been abandoned on our street for weeks.,Abandoned Vehicles,Abandoned Vehicles,Transportation,True
+There is an abandoned vehicle parked near my house.,Abandoned Vehicles,Abandoned Vehicles,Transportation,True
+Someone is illegally parked in front of my driveway.,Parking Enforcement,Parking Enforcement,Transportation,True
+Cars are blocking a no-parking zone.,Parking Enforcement,Parking Enforcement,Transportation,True
+The garbage truck did not collect our trash.,Missed Trash/Recycling/Yard Waste/Bulk Item,Missed Trash/Recycling/Yard Waste/Bulk Item,Public Works,True
+Our recycling was not picked up this week.,Missed Trash/Recycling/Yard Waste/Bulk Item,Missed Trash/Recycling/Yard Waste/Bulk Item,Public Works,True
+I need to schedule collection of a large sofa.,Schedule a Bulk Item Pickup,Schedule a Bulk Item Pickup,Public Works,True
+How do I arrange pickup for bulky household items?,Schedule a Bulk Item Pickup,Schedule a Bulk Item Pickup,Public Works,True
+The stop sign near my street is damaged.,Sign Repair,Sign Repair,Transportation,True
+A road sign has fallen and needs repair.,Sign Repair,Sign Repair,Transportation,True
+The traffic lights at our intersection are malfunctioning.,Traffic Signal Inspection,Traffic Signal Repair,Transportation,False
+The traffic signal keeps flashing incorrectly.,Traffic Signal Inspection,Traffic Signal Repair,Transportation,False
+The sidewalk outside my home has dangerous cracks.,Sidewalk Repair (Make Safe),Sidewalk Repair (Make Safe),Public Works,True
+A broken sidewalk is creating a tripping hazard.,Sidewalk Repair (Make Safe),Sidewalk Repair (Make Safe),Public Works,True
+Someone dumped old furniture beside the road.,Illegal Dumping,Illegal Dumping,Public Works,True
+People are leaving bags of rubbish on an empty lot.,Illegal Dumping,Trash on Vacant Lot,Public Works,False
+I would like the city to plant a new tree on my street.,New Tree Requests,New Tree Requests,Parks and Recreation,True
+Can we request a new street tree for our neighborhood?,New Tree Requests,New Tree Requests,Parks and Recreation,True

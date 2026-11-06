@@ -1,0 +1,319 @@
+department_name,department,type,historical_requests,available_queues
+Transportation,BTDT,Parking Enforcement,62973,13
+Public Works,PWDx,Improper Storage of Trash (Barrels),20273,22
+Public Works,PWDx,Requests for Street Cleaning,20128,32
+Public Works,PWDx,CE Collection,17977,21
+Public Works,PWDx,Schedule a Bulk Item Pickup,11828,1
+Public Works,PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,10584,3
+Public Works,PWDx,Poor Conditions of Property,8643,18
+Public Works,PWDx,Mattress_Pickup,8533,1
+Parks and Recreation,PARK,Tree Maintenance Requests,8063,15
+Public Works,PWDx,Request for Pothole Repair,7974,32
+Public Works,PWDx,Schedule a Bulk Item Pickup SS,7409,1
+Public Works,PWDx,Pick up Dead Animal,7195,17
+Public Works,PWDx,Sidewalk Repair (Make Safe),4772,33
+Transportation,BTDT,Sign Repair,4770,19
+Transportation,BTDT,Abandoned Vehicles,4736,6
+Inspectional Services,ISD,Rodent Activity,4673,6
+Public Works,PWDx,Recycling Cart Return,4140,3
+Public Works,PWDx,Request for Recycling Cart,4079,3
+Public Works,PWDx,Street Light Outages,3821,14
+Transportation,BTDT,Traffic Signal Inspection,3744,15
+Public Works,PWDx,Unshoveled Sidewalk,3706,13
+Parks and Recreation,PARK,Ground Maintenance,3070,23
+Public Works,PWDx,Illegal Dumping,2978,16
+Parks and Recreation,PARK,New Tree Requests,2563,6
+Public Works,PWDx,Sticker Request,2434,1
+Inspectional Services,ISD,Unsatisfactory Living Conditions,2368,5
+Parks and Recreation,PARK,Equipment Repair,2363,23
+Public Works,PWDx,Empty Litter Basket,2173,21
+Inspectional Services,ISD,Pest Infestation - Residential,1824,5
+Public Works,PWDx,Contractor Complaints,1095,14
+Transportation,BTDT,New Sign  Crosswalk or Pavement Marking,934,13
+Transportation,BTDT,Abandoned Bicycle,901,4
+Inspectional Services,ISD,Work w/out Permit,893,4
+Inspectional Services,ISD,Contractors Complaint,866,4
+Public Works,PWDx,PWD Graffiti,857,24
+Public Works,PWDx,Request for Snow Plowing,831,17
+Public Works,PWDx,General Lighting Request,783,8
+Inspectional Services,ISD,Heat - Excessive  Insufficient,749,2
+Parks and Recreation,PARK,Tree Emergencies,727,4
+Transportation,BTDT,Requests for Traffic Signal Studies or Reviews,673,7
+Inspectional Services,ISD,Maintenance Complaint - Residential,637,5
+Transportation,BTDT,Transportation General Request,601,14
+Inspectional Services,ISD,Working Beyond Hours,579,2
+Public Works,PWDx,Public Works General Request,576,38
+Inspectional Services,ISD,Unsanitary Conditions - Establishment,564,7
+Inspectional Services,ISD,Building Inspection Request,556,7
+Inspectional Services,ISD,Electrical,480,3
+Inspectional Services,ISD,Unsafe Dangerous Conditions,453,7
+Public Works,PWDx,Roadway Repair,430,14
+Transportation,BTDT,General Comments For a Program or Policy,423,13
+Public Works,PWDx,Street Light Knock Downs,386,8
+Public Works,PWDx,General Comments For a Program or Policy,363,26
+Inspectional Services,ISD,Mice Infestation - Residential,345,3
+Parks and Recreation,PARK,Pick up Dead Animal,313,12
+Inspectional Services,ISD,Chronic Dampness/Mold,290,1
+Public Works,PWDx,Tree Maintenance Requests,284,17
+Transportation,BTDT,Missing Sign,279,10
+Inspectional Services,ISD,Short Term Rental,278,5
+Public Works,PWDx,Major System Failure,265,2
+Parks and Recreation,PARK,Requests for Street Cleaning,263,15
+Inspectional Services,ISD,Protection of Adjoining Property,247,4
+Public Works,PWDx,Rodent Activity,240,19
+Parks and Recreation,PARK,Park Improvement Requests,236,9
+Inspectional Services,ISD,Food Alert - Confirmed,236,1
+Parks and Recreation,PARK,Empty Litter Basket,234,8
+Inspectional Services,ISD,Unsanitary Conditions - Food,220,3
+Public Works,PWDx,Illegal Vending,209,1
+Public Works,PWDx,Parks Lighting/Electrical Issues,208,6
+Parks and Recreation,PARK,Parks Lighting/Electrical Issues,201,7
+Inspectional Services,ISD,Unsatisfactory Utilities - Electrical  Plumbing,198,2
+Public Works,PWDx,Construction Debris,182,2
+Transportation,BTDT,Traffic Signal Repair,165,7
+Public Works,PWDx,General Comments For An Employee,165,17
+Inspectional Services,ISD,Maintenance - Homeowner,164,4
+Transportation,BTDT,General Traffic Engineering Request,156,10
+Public Works,PWDx,Space Savers,153,16
+Public Works,PWDx,Parking on Front/Back Yards (Illegal Parking),150,1
+Transportation,BTDT,PWD Graffiti,149,6
+Public Works,PWDx,Work Hours-Loud Noise Complaints,137,4
+Inspectional Services,ISD,Food Alert - Unconfirmed,136,1
+Transportation,BTDT,Pavement Marking Inspection,130,8
+Parks and Recreation,PARK,Parks General Request,129,20
+Public Works,PWDx,Pest Infestation - Residential,128,2
+Transportation,BTDT,Requests for Street Cleaning,119,14
+Inspectional Services,ISD,Illegal Occupancy,116,4
+Inspectional Services,ISD,Contractor Complaints,112,3
+Inspectional Services,ISD,Exceeding Terms of Permit,108,4
+Public Works,PWDx,Illegal Posting of Signs,105,4
+Inspectional Services,ISD,Sidewalk Repair (Make Safe),104,3
+Inspectional Services,ISD,Illegal Rooming House,102,2
+Transportation,BTDT,Sidewalk Repair (Make Safe),102,15
+Public Works,PWDx,Illegal Auto Body Shop,97,2
+Inspectional Services,ISD,Cross Metering - Sub-Metering,97,1
+Public Works,PWDx,Request for Litter Basket Installation,96,1
+Public Works,PWDx,Knockdown Replacement,89,2
+Public Works,PWDx,Ground Maintenance,89,14
+Parks and Recreation,PARK,Sidewalk Repair (Make Safe),88,15
+Public Works,PWDx,Student Move-in Issues,85,6
+Inspectional Services,ISD,Bed Bugs,78,1
+Inspectional Services,ISD,Egress,77,2
+Public Works,PWDx,Litter Basket Maintenance,74,5
+Inspectional Services,ISD,Illegal Auto Body Shop,74,3
+Inspectional Services,ISD,No Utilities Residential - Water,73,2
+Inspectional Services,ISD,Squalid Living Conditions,73,3
+Inspectional Services,ISD,Abandoned Building,71,4
+Public Works,PWDx,Overflowing or Un-kept Dumpster,71,2
+Public Works,PWDx,Sign Repair,69,22
+Parks and Recreation,PARK,Unshoveled Sidewalk,67,9
+Transportation,BTDT,Street Light Outages,66,6
+Public Works,PWDx,Parking Enforcement,62,6
+Parks and Recreation,PARK,General Comments For a Program or Policy,60,11
+Inspectional Services,ISD,Plumbing,59,4
+Parks and Recreation,PARK,Tree in Park,57,3
+Inspectional Services,ISD,Requests for Street Cleaning,54,4
+Transportation,BTDT,General Comments For An Employee,53,8
+Transportation,BTDT,Parking on Front/Back Yards (Illegal Parking),52,5
+Inspectional Services,ISD,No Utilities Residential - Electricity,51,2
+Public Works,PWDx,Trash on Vacant Lot,49,5
+Public Works,PWDx,Equipment Repair,45,14
+Public Works,PWDx,No-Tow Complaint Confirmation,43,11
+Inspectional Services,ISD,Poor Conditions of Property,42,4
+Inspectional Services,ISD,Unsanitary Conditions - Employees,42,1
+Inspectional Services,ISD,Notification,41,3
+Public Works,PWDx,Contractors Complaint,39,5
+Transportation,BTDT,Request for Pothole Repair,39,8
+Public Works,PWDx,StreetLight Pole WO,38,4
+Inspectional Services,ISD,Sewage/Septic Back-Up,37,3
+Public Works,PWDx,Traffic Signal Repair,37,13
+Transportation,BTDT,Bicycle Issues,36,1
+Parks and Recreation,PARK,Improper Storage of Trash (Barrels),35,8
+Public Works,PWDx,Utility Casting Repair,33,7
+Inspectional Services,ISD,Fire in Food Establishment,32,2
+Parks and Recreation,PARK,Sign Repair,31,7
+Parks and Recreation,PARK,PWD Graffiti,30,4
+Public Works,PWDx,Request for Snow Plowing (Emergency Responder),30,12
+Parks and Recreation,PARK,Cemetery Maintenance Request,30,2
+Public Works,PWDx,Pole Compliance,30,2
+Inspectional Services,ISD,Zoning,29,1
+Transportation,BTDT,Parking Meter Repairs,28,1
+Public Works,PWDx,Traffic Signal Inspection,27,11
+Inspectional Services,ISD,Parking Enforcement,27,3
+Public Works,PWDx,Upgrade Existing Lighting,26,3
+Transportation,BTDT,Equipment Repair,26,8
+Parks and Recreation,PARK,General Comments For An Employee,26,6
+Inspectional Services,ISD,Overflowing or Un-kept Dumpster,24,1
+Public Works,PWDx,Transportation General Request,24,8
+Transportation,BTDT,Contractor Complaints,24,7
+Inspectional Services,ISD,Rat Bite,23,2
+Inspectional Services,ISD,Overcrowding,23,2
+Transportation,BTDT,Public Works General Request,22,9
+Public Works,PWDx,Sidewalk Repair,21,2
+Parks and Recreation,PARK,CE Collection,21,7
+Public Works,PWDx,Install New Lighting,20,2
+Inspectional Services,ISD,Poor Ventilation,20,2
+Transportation,BTDT,No-Tow Complaint Confirmation,19,4
+Parks and Recreation,PARK,Rodent Activity,18,11
+Transportation,BTDT,Contractors Complaint,17,4
+Transportation,BTDT,Ground Maintenance,17,5
+Transportation,BTDT,Street Light Knock Downs,17,2
+Public Works,PWDx,Abandoned Vehicles,17,5
+Transportation,BTDT,Improper Storage of Trash (Barrels),17,5
+Inspectional Services,ISD,Work Hours-Loud Noise Complaints,17,2
+Inspectional Services,ISD,Pick up Dead Animal,16,3
+Public Works,PWDx,Parks General Request,15,8
+Inspectional Services,ISD,Improper Storage of Trash (Barrels),15,4
+Inspectional Services,ISD,Scanning Overcharge,15,1
+Public Works,PWDx,Unsatisfactory Living Conditions,15,2
+Public Works,PWDx,New Tree Requests,14,5
+Transportation,BTDT,Municipal Parking Lot Complaints,14,2
+Transportation,BTDT,Poor Conditions of Property,14,4
+Public Works,PWDx,Unsafe Dangerous Conditions,14,4
+Public Works,PWDx,Misc. Snow Complaint,14,1
+Parks and Recreation,PARK,Street Light Outages,13,3
+Inspectional Services,ISD,No Utilities Residential - Gas,13,1
+Public Works,PWDx,Abandoned Bicycle,12,7
+Public Works,PWDx,Bridge Maintenance,12,1
+Parks and Recreation,PARK,Public Works General Request,12,7
+Inspectional Services,ISD,Rental Unit Delivery Conditions,12,1
+Transportation,BTDT,CE Collection,12,5
+Public Works,PWDx,New Sign  Crosswalk or Pavement Marking,11,6
+Inspectional Services,ISD,Trash on Vacant Lot,11,1
+Parks and Recreation,PARK,Planting,10,3
+Transportation,BTDT,Illegal Posting of Signs,10,6
+Inspectional Services,ISD,Mechanical,9,2
+Inspectional Services,ISD,Occupying W/Out A Valid CO/CI,9,1
+Inspectional Services,ISD,Pigeon Infestation,9,1
+Parks and Recreation,PARK,Request for Pothole Repair,9,6
+Transportation,BTDT,Student Move-in Issues,9,2
+Parks and Recreation,PARK,Request for Litter Basket Installation,8,4
+Public Works,PWDx,Abandoned Building,8,1
+Transportation,BTDT,Phone Bank Service Inquiry,8,1
+Transportation,BTDT,Knockdown Replacement,8,4
+Inspectional Services,ISD,Public Works General Request,7,2
+Public Works,PWDx,Maintenance Complaint - Residential,7,1
+Parks and Recreation,PARK,Graffiti Removal,7,2
+Parks and Recreation,PARK,Poor Conditions of Property,7,5
+Inspectional Services,ISD,Unit Pricing Wrong/Missing,7,1
+Inspectional Services,ISD,Equipment Repair,7,2
+Inspectional Services,ISD,No Utilities - Food Establishment - Water,7,1
+Inspectional Services,ISD,Ground Maintenance,7,2
+Inspectional Services,ISD,Item Price Missing,7,2
+Inspectional Services,ISD,Request for Pothole Repair,7,2
+Transportation,BTDT,Valet Parking Problems,7,1
+Inspectional Services,ISD,Mosquitoes (West Nile),7,2
+Public Works,PWDx,Protection of Adjoining Property,6,1
+Public Works,PWDx,Pickup/Clear Conduit,6,1
+Inspectional Services,ISD,Sign Repair,6,2
+Inspectional Services,ISD,Carbon Monoxide,6,1
+Public Works,PWDx,Animal Generic Request,6,5
+Inspectional Services,ISD,No Price on Gas/Wrong Price,6,1
+Inspectional Services,ISD,Illegal Vending,6,2
+Transportation,BTDT,Tree Maintenance Requests,6,1
+Transportation,BTDT,Parks Lighting/Electrical Issues,6,5
+Public Works,PWDx,Needle Pickup,5,4
+Inspectional Services,ISD,Illegal Posting of Signs,5,3
+Inspectional Services,ISD,Abandoned Vehicles,5,3
+Transportation,BTDT,Private Parking Lot Complaints,5,1
+Transportation,BTDT,Illegal Auto Body Shop,5,1
+Inspectional Services,ISD,No Utilities - Food Establishment - Sewer,5,2
+Transportation,BTDT,Illegal Dumping,5,3
+Transportation,BTDT,General Lighting Request,5,2
+Inspectional Services,ISD,Lead,5,1
+Transportation,BTDT,Rodent Activity,5,1
+Parks and Recreation,PARK,Contractor Complaints,5,2
+Parks and Recreation,PARK,Request for Snow Plowing,5,4
+Transportation,BTDT,Requests for Directional or Roadway Changes,5,2
+Public Works,PWDx,Graffiti Removal,5,5
+Transportation,BTDT,Construction Debris,4,1
+Transportation,BTDT,Work Hours-Loud Noise Complaints,4,1
+Public Works,PWDx,Missing Sign,4,1
+Public Works,PWDx,Catchbasin,4,4
+Parks and Recreation,PARK,Traffic Signal Repair,4,2
+Public Works,PWDx,BWSC General Request,4,3
+Parks and Recreation,PARK,Missed Trash/Recycling/Yard Waste/Bulk Item,4,3
+Inspectional Services,ISD,Parks General Request,4,2
+Public Works,PWDx,Sidewalk Cover / Manhole,4,3
+Public Works,PWDx,Unsanitary Conditions - Establishment,4,1
+Transportation,BTDT,Space Savers,4,3
+Inspectional Services,ISD,No Utilities - Food Establishment - Flood,4,1
+Inspectional Services,ISD,General Comments For a Program or Policy,4,3
+Public Works,PWDx,General Traffic Engineering Request,3,2
+Public Works,PWDx,Big Buildings Recycling (INTERNAL),3,1
+Inspectional Services,ISD,Construction Debris,3,1
+Inspectional Services,ISD,Catchbasin,3,2
+Public Works,PWDx,Exceeding Terms of Permit,3,2
+Inspectional Services,ISD,Student Overcrowding,3,1
+Public Works,PWDx,Building Inspection Request,3,2
+Public Works,PWDx,Maintenance - Homeowner,3,2
+Public Works,PWDx,Pavement Marking Inspection,3,3
+Inspectional Services,ISD,Roadway Repair,3,1
+Inspectional Services,ISD,Illegal Dumping,3,1
+Transportation,BTDT,Pick up Dead Animal,3,3
+Parks and Recreation,PARK,General Lighting Request,3,3
+Inspectional Services,ISD,Animal Generic Request,2,1
+Transportation,BTDT,Walk-In Service Inquiry,2,1
+Transportation,BTDT,Work w/out Permit,2,2
+Public Works,PWDx,Squalid Living Conditions,2,1
+Inspectional Services,ISD,No Utilities - Food Establishment - Electricity,2,1
+Public Works,PWDx,Requests for Traffic Signal Studies or Reviews,2,2
+Inspectional Services,ISD,Product Short Measure,2,1
+Transportation,BTDT,Egress,2,1
+Transportation,BTDT,Exceeding Terms of Permit,2,2
+Public Works,PWDx,News Boxes,2,1
+Inspectional Services,ISD,Short Measure - Gas,2,1
+Inspectional Services,ISD,Empty Litter Basket,2,1
+Parks and Recreation,PARK,Needle Pickup,2,2
+Inspectional Services,ISD,Tree Maintenance Requests,2,1
+Parks and Recreation,PARK,Capital Improvement Long Term,2,1
+Inspectional Services,ISD,Needle Pickup,2,1
+Inspectional Services,ISD,Scale Not Visible,2,1
+Parks and Recreation,PARK,Illegal Dumping,2,2
+Transportation,BTDT,Sidewalk Cover / Manhole,2,1
+Parks and Recreation,PARK,Animal Generic Request,2,2
+Parks and Recreation,PARK,Parking Enforcement,2,2
+Parks and Recreation,PARK,Roadway Repair,2,2
+Parks and Recreation,PARK,Illegal Posting of Signs,1,1
+Transportation,BTDT,Short Term Rental,1,1
+Inspectional Services,ISD,BWSC General Request,1,1
+Inspectional Services,ISD,CE Collection,1,1
+Transportation,BTDT,Request for Snow Plowing,1,1
+Parks and Recreation,PARK,Abandoned Vehicles,1,1
+Parks and Recreation,PARK,No-Tow Complaint Confirmation,1,1
+Parks and Recreation,PARK,Misc. Snow Complaint,1,1
+Parks and Recreation,PARK,Contractors Complaint,1,1
+Parks and Recreation,PARK,Pavement Marking Inspection,1,1
+Parks and Recreation,PARK,Sidewalk Cover / Manhole,1,1
+Public Works,PWDx,Egress,1,1
+Inspectional Services,ISD,Traffic Signal Inspection,1,1
+Inspectional Services,ISD,Transportation General Request,1,1
+Inspectional Services,ISD,Water in Gas - High Priority,1,1
+Parks and Recreation,PARK,Traffic Signal Inspection,1,1
+Public Works,PWDx,City/State Snow Issues,1,1
+Parks and Recreation,PARK,Litter Basket Maintenance,1,1
+Parks and Recreation,PARK,Maintenance Complaint - Residential,1,1
+Parks and Recreation,PARK,Catchbasin,1,1
+Parks and Recreation,PARK,BWSC General Request,1,1
+Inspectional Services,ISD,Request for Snow Plowing,1,1
+Inspectional Services,ISD,Student Move-in Issues,1,1
+Inspectional Services,ISD,Sidewalk Cover / Manhole,1,1
+Public Works,PWDx,Mosquitoes (West Nile),1,1
+Public Works,PWDx,Municipal Parking Lot Complaints,1,1
+Public Works,PWDx,Pigeon Infestation,1,1
+Public Works,PWDx,Snow/Ice Control,1,1
+Inspectional Services,ISD,Park Improvement Requests,1,1
+Public Works,PWDx,Working Beyond Hours,1,1
+Transportation,BTDT,Building Inspection Request,1,1
+Public Works,PWDx,Utility Call-In,1,1
+Public Works,PWDx,Work w/out Permit,1,1
+Public Works,PWDx,Zoning,1,1
+Public Works,PWDx,Unsanitary Conditions - Food,1,1
+Transportation,BTDT,Illegal Vending,1,1
+Inspectional Services,ISD,Follow-Up,1,1
+Transportation,BTDT,Pavement Marking Maintenance,1,1
+Transportation,BTDT,Unsafe Dangerous Conditions,1,1
+Transportation,BTDT,Unshoveled Sidewalk,1,1
+Transportation,BTDT,Utility Casting Repair,1,1
+Transportation,BTDT,Working Beyond Hours,1,1
+Transportation,BTDT,Zoning,1,1

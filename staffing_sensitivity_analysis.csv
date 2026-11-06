@@ -1,0 +1,7 @@
+plan,scenario,peak_backlog,december_backlog,months_with_backlog,annual_cost
+Original Plan,Low Demand (-20%),0,0,0,3126666.67
+Original Plan,Baseline,239,0,1,3126666.67
+Original Plan,High Demand (+20%),2321,145,12,3126666.67
+Revised Plan,Low Demand (-20%),0,0,0,3080000.0
+Revised Plan,Baseline,239,0,1,3080000.0
+Revised Plan,High Demand (+20%),2648,1489,12,3080000.0

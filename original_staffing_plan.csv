@@ -1,0 +1,49 @@
+department,month,forecast_requests,full_time_crews,seasonal_crews,hires_started,hires_planned,monthly_capacity,ending_backlog,monthly_cost
+Inspectional Services,1,1583,16,0,0,0,1344,239,186666.67
+Parks and Recreation,1,1010,10,0,0,0,1260,0,100000.0
+Public Works,1,13952,50,0,0,0,12600,1352,541666.67
+Transportation,1,5584,18,0,0,2,5670,0,165000.0
+Inspectional Services,2,1031,16,0,0,1,1344,0,186666.67
+Parks and Recreation,2,866,10,0,0,2,1260,0,100000.0
+Public Works,2,12336,50,0,0,4,12600,1088,541666.67
+Transportation,2,6273,20,0,2,4,6300,0,183333.33
+Inspectional Services,3,1393,17,0,1,2,1428,0,198333.33
+Parks and Recreation,3,1481,12,0,2,0,1512,0,120000.0
+Public Works,3,13437,54,0,4,4,13608,917,585000.0
+Transportation,3,7369,24,0,4,0,7560,0,220000.0
+Inspectional Services,4,1522,19,0,2,1,1596,0,221666.67
+Parks and Recreation,4,1676,12,2,0,0,1764,0,146000.0
+Public Works,4,14505,58,0,4,0,14616,806,628333.33
+Transportation,4,7441,24,0,0,2,7560,0,220000.0
+Inspectional Services,5,1640,20,0,1,2,1680,0,233333.33
+Parks and Recreation,5,1996,12,4,0,0,2016,0,172000.0
+Public Works,5,12366,58,0,0,0,14616,0,628333.33
+Transportation,5,7898,26,0,2,0,8190,0,238333.33
+Inspectional Services,6,1807,22,0,2,1,1848,0,256666.67
+Parks and Recreation,6,3165,12,14,0,0,3276,0,302000.0
+Public Works,6,11902,58,0,0,0,14616,0,628333.33
+Transportation,6,7423,26,0,0,0,8190,0,238333.33
+Inspectional Services,7,1901,23,0,1,4,1932,0,268333.33
+Parks and Recreation,7,2811,12,11,0,0,2898,0,263000.0
+Public Works,7,12779,58,0,0,0,14616,0,628333.33
+Transportation,7,7259,26,0,0,0,8190,0,238333.33
+Inspectional Services,8,2254,27,0,4,0,2268,0,315000.0
+Parks and Recreation,8,2024,12,5,0,0,2142,0,185000.0
+Public Works,8,14485,58,0,0,0,14616,0,628333.33
+Transportation,8,6842,26,0,0,0,8190,0,238333.33
+Inspectional Services,9,1875,27,0,0,0,2268,0,315000.0
+Parks and Recreation,9,1615,12,1,0,0,1638,0,133000.0
+Public Works,9,14579,58,0,0,0,14616,0,628333.33
+Transportation,9,7855,26,0,0,0,8190,0,238333.33
+Inspectional Services,10,1617,27,0,0,0,2268,0,315000.0
+Parks and Recreation,10,1047,12,0,0,0,1512,0,120000.0
+Public Works,10,10402,58,0,0,0,14616,0,628333.33
+Transportation,10,8004,26,0,0,0,8190,0,238333.33
+Inspectional Services,11,1054,27,0,0,0,2268,0,315000.0
+Parks and Recreation,11,998,12,0,0,0,1512,0,120000.0
+Public Works,11,9352,58,0,0,0,14616,0,628333.33
+Transportation,11,6927,26,0,0,0,8190,0,238333.33
+Inspectional Services,12,1200,27,0,0,0,2268,0,315000.0
+Parks and Recreation,12,649,12,0,0,0,1512,0,120000.0
+Public Works,12,10688,58,0,0,0,14616,0,628333.33
+Transportation,12,5641,26,0,0,0,8190,0,238333.33
