@@ -29,6 +29,26 @@ The analysis focuses on four departments:
 
 The application combines these two workflows through an interactive interface built in Google Colab.
 
+
+```mermaid
+flowchart TD
+    A[Resident Complaint] --> B[OpenAI GPT-4.1-mini]
+    B --> C[Structured Classification]
+    C --> D[Department and Queue Review]
+
+    E[Boston 311 Data 2023 and 2024] --> F[Data Cleaning]
+    F --> G[Monthly Demand Forecast 2025]
+    G --> H[Staffing Simulation]
+
+    H --> I[Original and Revised Plans]
+    I --> J[Costs Capacity and Backlogs]
+
+    D --> K[Interactive Colab Application]
+    J --> K
+    K --> L[Service Planning Results]
+```
+
+
 ## Methodology
 
 The project uses prompt engineering, OpenAI API integration, and structured JSON output to classify service complaints into approved historical request types.
