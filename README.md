@@ -115,3 +115,11 @@ IE 5374 — Applied Generative AI
 Northeastern University
 
 **Project:** Boston 311 AI Service Planning Assistant
+
+## Hackathon Demonstration Video
+
+Watch my demonstration of the Boston 311 AI Service Planning Assistant.
+
+[Download and Watch My Demonstration Video](Boston311_Hackathon_Farai_Murambadoro.mp4?raw=1)
+
+The video demonstrates the system architecture, AI complaint classification, interactive Google Colab application, workforce planning, and key project findings.
